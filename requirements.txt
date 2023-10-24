@@ -1,3 +1,0 @@
-#requirements.txt
-pip install pip-upgrader
-#snowflake-connector-python
