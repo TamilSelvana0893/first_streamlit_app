@@ -1,4 +1,4 @@
-import streamlit
+import streamlit.stop()
 
 
 streamlit.title('My Parents new Healthy Dinner')
